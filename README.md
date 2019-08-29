@@ -7,5 +7,5 @@ how to use :
 3. apt install curl
 4. apt install git
 5. git clone https://github.com/bangkitboss/AutoClaim.git
-6. cd AutoClaim
+6. cd revisiClaim
 7. php gogo.php
